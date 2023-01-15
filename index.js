@@ -1,0 +1,1 @@
+alert(`Note! all Screenshots of Payments are sent to the WhatsApp number for comfirmation, Payments may take some time to reach your account`)
