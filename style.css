@@ -5,7 +5,7 @@
 }
 
 body {
-  background: radial-gradient(rgba(10, 1, 26, 0.938), rgb(0, 0, 0)), url('background.jpg');
+  background: radial-gradient(rgba(10, 1, 26, 0.938), rgb(0, 0, 0)), url('https://raw.githubusercontent.com/clint360/i360-Payments/b5d551a74f6b0342217e503776f381c3b3873fe3/background.JPG');
   background-size: cover;
   color: white;
   height: auto;
